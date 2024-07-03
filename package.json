@@ -63,9 +63,9 @@
     "karma-opera-launcher": "1.0.0",
     "karma-safari-launcher": "1.0.0",
     "karma-typescript-es6-transform": "1.0.3",
-    "karma-typescript": "3.0.9",
-    "karma-webpack": "2.0.9",
-    "karma": "2.0.0",
+    "karma-typescript": "5.0.0",
+    "karma-webpack": "4.0.0",
+    "karma": "5.0.8",
     "lodash.template": "4.4.0",
     "mocha": "4.1.0",
     "pascal-case": "2.0.1",
@@ -76,8 +76,8 @@
     "typescript": "2.6.2",
     "uglifyjs-webpack-plugin": "1.1.6",
     "update-notifier": "2.3.0",
-    "webpack-dev-server": "2.11.0",
-    "webpack": "3.10.0"
+    "webpack-dev-server": "4.9.0",
+    "webpack": "4.0.0"
   },
   "devDependencies": {
     "@types/lodash.template": "4.4.3",
